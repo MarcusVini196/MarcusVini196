@@ -8,7 +8,7 @@ Me chamo Marcus Vinicius, tenho 23 anos e sou natural de Brasília. Concluí o e
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github.com/MarcusVini196?tab=followers?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://github.com/MarcusVini196?tab=stars)"
+            src="https://custom-icon-badges.demolab.com/github/followers/MarcusVini196?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://github.com/MarcusVini196?tab=stars)"
         />
     </a>
 </p>
