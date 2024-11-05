@@ -4,18 +4,11 @@
 Me chamo Marcus Vinicius, tenho 23 anos e sou natural de Brasília. Concluí o ensino médio, com o curso em informática. Atualmente, estou querendo cursar Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[MV Programador](https://www.youtube.com/@mvprogramming)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[MV Desenvolvimento Web](https://www.instagram.com/mv_desenvolvimento.web/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@mvprogramming">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://github.com/MarcusVini196">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github.com/MarcusVini196?tab=followers?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://github.com/MarcusVini196?tab=stars)"
         />
     </a>
 </p>
