@@ -88,7 +88,7 @@ Me chamo Marcus Vinicius, tenho 23 anos e sou natural de Brasília. Concluí o e
 
 ### 📊 Estatísticas
 
-<p>
+<p style="align-items: center; display:flex;">
   <img 
     align="left" 
     alt="GitHub Stats" 
