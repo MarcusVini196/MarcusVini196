@@ -93,7 +93,7 @@ Me chamo Marcus Vinicius, tenho 23 anos e sou natural de Brasília. Concluí o e
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;width: 400px;" 
+    style="padding-right: 10px; width: 400px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcusVini196&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -101,6 +101,7 @@ Me chamo Marcus Vinicius, tenho 23 anos e sou natural de Brasília. Concluí o e
       align="right" 
       alt="GitHub Stats" 
       height="200" 
+      style="width: 400px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVini196&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
