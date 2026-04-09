@@ -1,7 +1,7 @@
 ## Marcus Vinicius 👋
 
 
-Me chamo Marcus Vinicius, tenho 23 anos e sou natural de Brasília. Concluí o ensino médio, com o curso em informática. Atualmente, estou querendo cursar Análise e Desenvolvimento de Sistemas. Fiquei apaixonado por tecnologia aos meus 16 anos, compartilho meu desenvolvimento e conhecimento através do meu canal no YouTube "[MV Um Pouco de Tudo](https://www.youtube.com/@mvumpoucodetudo)", onde mostro o meu desenvolvimento como Programador FullStack, e também através do Instagram, com o perfil chamado "[MV Desenvolvimento Web](https://www.instagram.com/mv_desenvolvimento.web/)".
+Me chamo Marcus Vinicius, tenho 25 anos e sou natural de Brasília. Concluí o ensino médio, com o curso em informática. Atualmente, estou querendo cursar Análise e Desenvolvimento de Sistemas. Fiquei apaixonado por tecnologia aos meus 16 anos, compartilho meu desenvolvimento e conhecimento através do meu canal no YouTube "[MV Um Pouco de Tudo](https://www.youtube.com/@mvumpoucodetudo)", onde mostro o meu desenvolvimento como Programador FullStack, e também através do Instagram, com o perfil chamado "[MV Desenvolvimento Web](https://www.instagram.com/mv_desenvolvimento.web/)".
 
 <p align="left">
     <a href="https://github.com/MarcusVini196">
